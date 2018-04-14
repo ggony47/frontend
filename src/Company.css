@@ -1,0 +1,18 @@
+* { margin: 0; padding: 0;}
+
+body { font-size: 14px; background-color: #f8f8f8;
+}
+
+.container { width: 1060px; margin: 30px auto;}
+.card { width:25%; float: left; padding: 10px; box-sizing: border-box;
+    
+}
+.item { border:  1px solid #ddd;}
+
+.photo { background: #ddd; height: 185px;}
+.info { padding: 15px; border-bottom: 1px solid #ddd;}
+.opt { overflow: hidden; padding: 10px 15px; }
+.recom { float:left; }
+.favorite { float: left; width: 16px; height: 16px; border: 1px solid #ddd; border-radius: 50%;}
+
+h3 { text-overflow: ellipsis; white-space: nowrap; word-wrap: normal; overflow: hidden;}
