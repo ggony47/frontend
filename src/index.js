@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 //import App from './App';
-import Application from './Application';
+//import Application from './Application';
+import Web from './Web';
 
-ReactDOM.render(<Application />,document.getElementById('root'));
+ReactDOM.render(<Web />,document.getElementById('root'));

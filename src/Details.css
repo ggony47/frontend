@@ -1,0 +1,7 @@
+* { margin: 0; padding: 0;}
+
+body { font-size: 14px; background-color: #f8f8f8; }
+
+.container { width: 1060px; margin: 30px auto;}
+
+.thumnails { width: 750px; height: 500px; margin: 20px;}

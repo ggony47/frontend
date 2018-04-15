@@ -1,7 +1,6 @@
 * { margin: 0; padding: 0;}
 
-body { font-size: 14px; background-color: #f8f8f8;
-}
+body { font-size: 14px; background-color: #f8f8f8; }
 
 .container { width: 1060px; margin: 30px auto;}
 .card { width:25%; float: left; padding: 10px; box-sizing: border-box;
